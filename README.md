@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wcgraupmann
+- - 🌱 I recently graduated from the University of Wisconsin - Madison
 - 👀 I’m interested in sports, cooking, education, and reading
-- 🌱 I’m currently learning web dev and full stack engineering
-- 💞️ I’m looking to collaborate on open-source full-stack projects
+- 💞️ I’m looking to for a software engineering position
 - 📫 How to reach me wcgraupmann@gmail.com
 
 <!---
