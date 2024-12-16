@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wcgraupmann
 - 🌱 I recently graduated from the University of Wisconsin - Madison
-- 👀 I’m interested in sports, cooking, education, and reading
+- 👀 I’m interested in cloud computing, sports, cooking, education, and reading
 - 💞️ I’m looking to for a software engineering position
 - 📫 How to reach me wcgraupmann@gmail.com
 
